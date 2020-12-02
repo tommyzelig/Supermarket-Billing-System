@@ -1,1 +1,1 @@
-# Project_mfc_supermarket
+# Project_c++_supermarket
